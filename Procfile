@@ -1,3 +1,1 @@
-"scripts": {
-    "start": "npm dev run"
-}
+web: npm run dev
