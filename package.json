@@ -7,12 +7,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@walletconnect/node": "^1.0.0",
-    "@walletconnect/qrcode-modal": "^1.7.4",
     "bootstrap": "^5.1.3",
     "react": "^17.0.2",
     "react-bootstrap": "^2.2.0",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "vite": "^2.8.6"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.4",
@@ -21,7 +20,6 @@
     "@vitejs/plugin-react": "^1.0.7",
     "chai": "^4.3.4",
     "ethereum-waffle": "^3.4.0",
-    "ethers": "^5.5.3",
-    "vite": "^2.8.6"
+    "ethers": "^5.5.3"
   }
 }
